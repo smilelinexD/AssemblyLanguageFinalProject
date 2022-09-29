@@ -1,0 +1,12 @@
+*.dll
+*.lib
+*.zip
+*.inc
+*.bat
+FinalProject*
+ML.*
+ReadMe.doc
+WINDBG.HLP
+cmd.exe.lnk
+link.exe
+windbg*
